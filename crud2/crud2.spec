@@ -1,0 +1,5 @@
+author: "jkvor"
+category: "erlang mongo driver"
+summary: "connect mongo and erlang"
+home: "erlang mongo"
+url: "https://github.com/jkvor/emongo.git"
